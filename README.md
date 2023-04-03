@@ -1,4 +1,4 @@
-# Predictions Trading Bot
+# IMC Trading Bot
 A Python trading algorithm built for the IMC Prosperity challenge to trade different commodities based on their bid and ask prices using market making, correlation trading, and etf trading strategies
 
 ### Screenshots of Sample Results
